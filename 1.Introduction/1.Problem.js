@@ -1,4 +1,4 @@
-const studentsDatabase = ["Harshad", "Ashish", "Frank", "Atul"];
+const studentsDatabase = ["Harshad", "Ashish", "Frank", "Atul", "Rahul"];
 
 const findStudents = (studentsDatabase, name) => { 
     for (let i = 0; i < studentsDatabase.length; i++) {
