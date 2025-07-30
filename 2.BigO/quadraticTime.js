@@ -7,7 +7,7 @@ function findPairs(arr) {
     }
     
     // O(n)
-    for (let q = 0; q < 5; q++) {
+    for (let q = 0; q < arr.length; q++) {
         console.log("-------------", q);
     }
     
